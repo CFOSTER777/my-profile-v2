@@ -3,6 +3,38 @@
 ## 📌 About Me
 UTSA cybersecurity and information systems student with real operational leadership experience. I currently work at Academy Sports and Outdoors, and also support DTK Cleaning Services and Cornerstone Christian Schools. Previously, I served as an **Assistant General Manager at GO Car Wash, overseeing operations and staff leadership for 2.5 years**, managing people, process, and performance expectations daily. This early executive-level responsibility shaped how I approach technology — not just as a tool, but as an asset to be led, managed, and secured. I am actively developing toward leading a cybersecurity team that makes critical defensive decisions in real time.
 
+---
+
+## Projects & Labs
+
+### AI Development Lab Automation System
+
+Built an automated repository maintenance workflow using Python and GitHub Actions to demonstrate CI/CD and DevOps-style automation practices.
+
+Key features:
+
+- Automated repository updates using Python scripting
+- Scheduled workflow execution using GitHub Actions
+- Cloud-based automation pipeline
+- Integration of AI-assisted development tools (Claude, Codex, VS Code)
+- Real-time execution logging and repository synchronization
+
+Technologies used:
+
+Python  
+GitHub Actions  
+Git  
+Linux  
+VS Code  
+Automation scripting  
+CI/CD workflows  
+
+Documentation:
+
+See full project documentation:
+
+docs/ai-dev-lab-automation.md
+
 ## 🛠️ Skills
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
