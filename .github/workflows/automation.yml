@@ -1,0 +1,25 @@
+name: Automated Workflow
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # Runs every day at 12:00 UTC
+
+  workflow_dispatch:
+
+jobs:
+  run-script:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run workflow script
+        run: python scripts/run_workflow.py
