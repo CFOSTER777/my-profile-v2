@@ -33,7 +33,7 @@ Documentation:
 
 See full project documentation:
 
-docs/ai-dev-lab-automation.md
+[View project documentation](docs/ai-dev-lab-automation.md)
 
 ## 🛠️ Skills
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.kernel.org/)
@@ -74,8 +74,8 @@ docs/ai-dev-lab-automation.md
 - Networking Basics (Internet Protocol, IPv4/IPv6, DHCP, ARP, routing, TCP/UDP, testing utilities)
 
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/CFOSTER777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianalexanderfoster-)
 
 ---
 
